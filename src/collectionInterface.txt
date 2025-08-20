@@ -1,0 +1,27 @@
+1. collection framework has multiple interface inside like
+    Collection (interface)
+     ├── List
+     │    ├── ArrayList
+     │    ├── LinkedList
+     │    ├── Vector
+     │    └── Stack
+     ├── Set
+     │    ├── HashSet
+     │    ├── LinkedHashSet
+     │    ├── TreeSet
+     │    └── EnumSet
+     └── Queue
+          ├── LinkedList
+          ├── ArrayDeque
+          └── PriorityQueue
+
+    Map (interface)
+     ├── HashMap
+     ├── LinkedHashMap
+     ├── TreeMap
+     ├── EnumMap
+     ├── WeakHashMap
+     └── Hashtable
+
+    Iterator (interface)
+     └── ListIterator (only for Lists)
